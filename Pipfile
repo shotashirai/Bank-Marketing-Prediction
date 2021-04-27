@@ -16,6 +16,8 @@ sklearn = "*"
 autopep8 = "*"
 flake8 = "*"
 jupyter = "*"
+jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
 
 [requires]
 python_version = "3.7"
